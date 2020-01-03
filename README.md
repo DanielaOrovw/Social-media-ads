@@ -6,3 +6,4 @@ Facebook users which cuts across various demographics and age groups, various in
 Advertisers can create Facebook adverts, then create an 'Audience' for that advert or group of adverts. Audiences can be built from a range of attributes including gender, age, location and interests. This specific targetting means advertisers can tailor content appropriately for a specific audience, even if the product being marketed is the same.
 
 In 2019, Facebook's revenue from advertising for quarter 3 was 17.3bn dollars, up from 13bn dollars in quarter 3 of 2018 recording a 28% year over year change. This compares to Google's 33.9bn dollars in quarter 3 of 2019, 824m dollars that twitter advertising made in Q3 2019 and $3.5bn made by Amazon advertising in Q3 2019. These figures indicates how big online advertising platform market is currently.
+https://public.tableau.com/profile/daniela.orovwiroro#!/vizhome/FACEBOOKADSDASHBOARD/FACEBOOKADSDASHBOARD
